@@ -1,2 +1,2 @@
-# apsnake.github.io.
+# apsnake.github.io
 educational-game
