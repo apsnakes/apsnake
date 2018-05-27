@@ -5,8 +5,8 @@ var snakeX = 2;
 var snakeY = 2;
 var snakeX2 = 20; 
 var snakeY2 = 20;
-var height = 38; 
-var width = 38; 
+var height = 42; 
+var width = 70; 
 var interval = 100; 
 var increment = 4; 
  
