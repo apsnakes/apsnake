@@ -1,0 +1,29 @@
+*{ 
+    padding:0; 
+    margin:0; 
+} 
+body{ 
+    background-color:#000; 
+} 
+td{ 
+    width:20px; 
+    height:20px; 
+} 
+.blank{ 
+    background-color:blank; 
+} 
+.snake{
+	background-color:green;
+}
+.snake3{
+	background-color:blue;
+}
+.wall{ 
+    background-color:red; 
+} 
+.block{
+	background-color:red;
+}
+.fruit{ 
+    background-color:white; 
+} @charset "UTF-8";
