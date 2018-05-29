@@ -250,14 +250,14 @@ function update(){
     for(var i = tailX.length-1; i >=0; i--){ 
     	if(snakeX2 == tailX[i] && snakeY2 == tailY[i]){
     		l+=1;
-    		length-=1;
+    		length-=length;
     		}
     	
     } 
    for(var i = tailX2.length-1; i >=0 ; i--){
 	   if(snakeX == tailX2[i] && snakeY == tailY2[i] ){ 
 	        length+=1 ;
-	    		l-=1;
+	    		l-=l;
 	         
 	    	}
    }
